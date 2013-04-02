@@ -1,0 +1,32 @@
+body {
+    max-width:500px;
+    margin:20px auto;
+    font:normal 20px/30px 'Georgia', serif;
+    color:#222;
+}
+
+a.action {
+    background:darkred;
+    color:#fff;
+    display:block;
+    padding:10px;
+    text-decoration:none;
+    text-align:center;
+}
+
+a.action:hover {
+    background:darkblue;
+}
+
+img {
+    max-width:500px;
+}
+
+.actions {
+    padding:10px 0;
+    font-size:16px;
+}
+
+.actions a {
+    color:darkred;
+}
