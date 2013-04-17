@@ -1,0 +1,17 @@
+body {
+}
+
+a, a:visited, a:hover {
+    color:#902;
+}
+
+a:hover {
+    color:#222;
+    text-decoration:underline;
+}
+
+.big-titles h1 {
+    font-size:50px;
+    background:#eee;
+    padding:10px;
+}
