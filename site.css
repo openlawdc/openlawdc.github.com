@@ -1,4 +1,5 @@
 body {
+	line-height: 135%;
 }
 
 a, a:visited, a:hover {
@@ -14,4 +15,8 @@ a:hover {
     font-size:50px;
     background:#eee;
     padding:10px;
+}
+
+ul#press li {
+	margin-bottom: .8em;
 }
